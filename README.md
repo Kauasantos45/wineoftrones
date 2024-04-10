@@ -6,7 +6,7 @@ Este repositório contém o código e os recursos relacionados ao projeto de pre
 
 1. **Notebooks:**
    - `WineOFDragons.ipynb`: Jupyter Notebook contendo a análise exploratória dos dados.
-   - 
+   
 2. **Dados:**
    - `winequality-red.csv`: Conjunto de dados utilizado no projeto.
 
